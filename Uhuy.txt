@@ -1,0 +1,7 @@
+1. Git Stas menyimpan sementara file
+2.Git Revert kembali ke Commit sebelumnya tanpa menghapus seluruh file
+3.Git Reset Mengulang dari awal dan menghapus semuany
+
+CI(Continous Integration):Tes Otomatis untuk setiap KOde perubahan
+CD(Continous Deployment):Implementasi ke lingkungan produksi setelah melewati proses CI
+CD(Continous Delivery):Sama denagn COntinous Deployment namun fokus kesiapan untuk mengimplemtasikan perbuahan ke produksi kapan saja
